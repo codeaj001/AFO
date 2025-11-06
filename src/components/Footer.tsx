@@ -24,7 +24,7 @@ const Footer = () => {
               <h4 className="text-sm font-semibold mb-4 text-background/90">Connect With Us</h4>
               <div className="flex gap-4">
                 <a
-                  href="https://twitter.com"
+                  // href="https://twitter.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors duration-300 group"
@@ -33,7 +33,7 @@ const Footer = () => {
                   <Twitter className="w-5 h-5 text-background group-hover:scale-110 transition-transform" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  // href="https://linkedin.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors duration-300 group"
@@ -42,7 +42,7 @@ const Footer = () => {
                   <Linkedin className="w-5 h-5 text-background group-hover:scale-110 transition-transform" />
                 </a>
                 <a
-                  href="https://github.com"
+                  // href="https://github.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors duration-300 group"
